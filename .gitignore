@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+# local config
+.vscode/*
+=======
+.vscode/launch.json
+.vscode/settings.json
+>>>>>>> 05b59cf180682f8c016382160e3c62a94879838a
